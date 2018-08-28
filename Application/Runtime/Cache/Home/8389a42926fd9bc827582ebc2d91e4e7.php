@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><font style="color: #3a7ead">thing</font>
