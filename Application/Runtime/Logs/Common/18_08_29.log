@@ -1,0 +1,267 @@
+[ 2018-08-29T15:21:30+08:00 ] 127.0.0.1 /demo/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Admin
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/css/base.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/jquery-1.7.2.min.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/css/scindex.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/banner.index.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/jquery.SuperSlide.2.1.1.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/images/logo_top.gif
+ERR: 无法加载模块:Images
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/hun.index.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/css/shoph_ban.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/1f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/sum02.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/jquery.SuperSlide.2.1.1.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/2f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/2fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/banner.index.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/2fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/2fpro2.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/js/hun.index.js
+ERR: 无法加载模块:Js
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/2fpro3.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/3f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/3fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/4f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/3fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/4fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:13+08:00 ] 127.0.0.1 /demo/pics/5f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/5fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/5fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/6fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/6f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/6fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/7f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/7fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/7fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/8fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/8f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/8fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/9f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/9fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/ban/list_ban.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/ban/list_ban2.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/ban/ban03.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/sum02.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/9fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/icon01.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/icon02.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/icon03.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:14+08:00 ] 127.0.0.1 /demo/pics/icon04.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:10:16+08:00 ] 127.0.0.1 /demo/css/scindex.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:10:16+08:00 ] 127.0.0.1 /demo/css/shoph_ban.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:10:16+08:00 ] 127.0.0.1 /demo/css/base.css
+ERR: 无法加载模块:Css
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/images/logo_top.gif
+ERR: 无法加载模块:Images
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/sum02.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/1f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/2fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/2fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/2fpro2.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/2f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/3f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/2fpro3.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/3fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/4fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/5f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/4f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/3fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/5fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/6fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/7fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/6fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/7f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/5fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/6f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/9f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/8fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/7fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/8f.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/9fpro.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/8fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/9fpro1.jpg
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/icon01.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/icon04.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/icon03.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:07+08:00 ] 127.0.0.1 /demo/pics/icon02.png
+ERR: 无法加载模块:Pics
+
+[ 2018-08-29T16:11:08+08:00 ] 127.0.0.1 /demo/ban/ban03.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:11:08+08:00 ] 127.0.0.1 /demo/ban/list_ban2.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:11:08+08:00 ] 127.0.0.1 /demo/ban/list_ban.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:13:02+08:00 ] 127.0.0.1 /demo/ban/list_ban2.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:13:02+08:00 ] 127.0.0.1 /demo/ban/ban03.jpg
+ERR: 无法加载模块:Ban
+
+[ 2018-08-29T16:13:02+08:00 ] 127.0.0.1 /demo/ban/list_ban.jpg
+ERR: 无法加载模块:Ban
+

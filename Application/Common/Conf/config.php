@@ -14,7 +14,9 @@ return array(
 
     'URL_PATHINFO_DEPR'     =>  '/',	// PATHINFO模式下，各参数之间的分割符号
     'SESSION_AUTO_START' =>true,
-
+    '__PUBLIC__'    =>  __ROOT__.'/Public',// 站点公共目录
+    '__CSS__'       =>__ROOT__.'/public/css',
+    '__JS__'        =>__ROOT__.'/public/js',
     /* 数据库设置 */
     'DB_TYPE'               =>  'mysql',     // 数据库类型
     'DB_HOST'               =>  '127.0.0.1', // 服务器地址
@@ -31,4 +33,8 @@ return array(
     'DB_RW_SEPARATE'        =>  false,       // 数据库读写是否分离 主从式有效
     'DB_MASTER_NUM'         =>  1, // 读写分离后 主服务器数量
     'DB_SLAVE_NO'           =>  '', // 指定从服务器序号
+    'view_replace_str' => array(
+        '__JS__' => __ROOT__ . '/Public/js',
+        '__CSS__' => __ROOT__ . '/Public/css',
+    )
 );
